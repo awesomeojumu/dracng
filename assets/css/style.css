@@ -83,11 +83,6 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99999;
 }
 
-.back-to-top .bot iframe{
-  height: 500px;
-
-}
-
 .back-to-top i {
   display: flex;
   align-items: center;
